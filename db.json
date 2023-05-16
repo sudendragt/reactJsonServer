@@ -1,4 +1,21 @@
 {
+    "watches" : [
+        {
+            "id": 1,
+            "brand": "Fasttrack",
+            "size": 23,
+            "category": "men",
+            "price": 1000
+        },
+        {
+            "id": 2,
+            "brand": "Rolex",
+            "size": 20,
+            "category": "men",
+            "price": 10000
+        }
+    ],
+
     "sunglasses" : [
           {
           "id": 81,
